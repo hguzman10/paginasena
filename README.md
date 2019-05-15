@@ -1,2 +1,0 @@
-# paginasena
-PAgina SENA
